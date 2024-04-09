@@ -1,4 +1,4 @@
-import{q as d,j as e}from"./styled-components.browser.esm-D848Jn1s.js";import{P as n}from"./PlayingSide-Bf32MGWw.js";import"./index-Cu9bd8lq.js";import"./index-LBzdyCsK.js";import"./moment-B1M2hmvy.js";import"./util-5knA4vmh.js";import"./index-7dmntjiV.js";import"./extends-CCbyfPlC.js";import"./inheritsLoose-B7h9gheN.js";import"./Sliced-Dmd9fdao.js";import"./Box-I8wZGDRa.js";import"./emotion-use-insertion-effect-with-fallbacks.browser.esm-Bcg3o4Lk.js";const g=d.div`
+import{q as d,j as e}from"./styled-components.browser.esm-D848Jn1s.js";import{P as n}from"./PlayingSide-CxMBjoKM.js";import"./index-Cu9bd8lq.js";import"./index-LBzdyCsK.js";import"./moment-B1M2hmvy.js";import"./util-5knA4vmh.js";import"./index-7dmntjiV.js";import"./extends-CCbyfPlC.js";import"./inheritsLoose-B7h9gheN.js";import"./Sliced-CBmddyFN.js";import"./Box-I8wZGDRa.js";import"./emotion-use-insertion-effect-with-fallbacks.browser.esm-Bcg3o4Lk.js";const g=d.div`
   width: 250px;
   padding: 5px;
   margin: auto;
