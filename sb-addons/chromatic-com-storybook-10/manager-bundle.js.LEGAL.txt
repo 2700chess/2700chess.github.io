@@ -1,6 +1,6 @@
 Bundled license information:
 
-filesize/dist/filesize.cjs:
+filesize/dist/filesize.esm.js:
   /**
    * filesize
    *
