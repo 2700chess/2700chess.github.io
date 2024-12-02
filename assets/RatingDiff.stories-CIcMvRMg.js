@@ -1,0 +1,5 @@
+import{j as e}from"./jsx-runtime-QvZ8i92b.js";import{c as p,d as m}from"./index-bTXA_HBf.js";import{B as s}from"./Box-CSL1DSQ9.js";import"./index-uubelm5h.js";import"./extends-CF3RwP-h.js";import"./inheritsLoose-DR8r8Ogv.js";const r=({diff:o})=>e.jsxs(s,{component:"div",sx:{textAlign:"center",color:o===0?"inherit":o<0?p:m,position:"relative",display:"inline-block"},children:[o!==0&&e.jsx(s,{component:"span",sx:{position:"absolute",left:"-12px",top:"50%",transform:"translateY(-50%)"},children:o>0?"+":"−"}),Math.abs(o).toFixed(1)]});r.__docgenInfo={description:"",methods:[],displayName:"RatingDiff",props:{diff:{required:!0,tsType:{name:"number"},description:""}}};const g={title:"Components/RatingDiff",component:r,tags:["autodocs"],render:o=>e.jsx(r,{...o})},t={args:{diff:20}};var n,a,i;t.parameters={...t.parameters,docs:{...(n=t.parameters)==null?void 0:n.docs,source:{originalSource:`{
+  args: {
+    diff: 20
+  }
+}`,...(i=(a=t.parameters)==null?void 0:a.docs)==null?void 0:i.source}}};const E=["Component"];export{t as Component,E as __namedExportsOrder,g as default};
